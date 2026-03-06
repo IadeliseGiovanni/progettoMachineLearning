@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+xgboost
+lightgbm
+tensorflow
+optuna
+scikit-learn-intelex
